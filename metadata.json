@@ -1,0 +1,8 @@
+{
+  "name": "Remix Autonomous Offline Companion AI",
+  "description": "A self-governing, autonomous offline digital companion that chooses its own identity, personality, and parameters, featuring an expressive animated face, spontaneous unprompted thoughts, book ingestion with skill acquisition, and native PWA/APK installability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
